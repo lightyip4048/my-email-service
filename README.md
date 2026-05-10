@@ -1,3 +1,6 @@
+## Our association
+My company is an alumni association for a Christian band (called Principle De Unique Christian Band, 源理基督徒樂隊) in Hong Kong
+
 ## Our Email Usage
 We request AWS SES production access exclusively for:
 
@@ -22,9 +25,9 @@ We request AWS SES production access exclusively for:
 
 ## Contact Information
 For verification purposes:
-- **Organization Representative**: [Your Full Name]
-- **Role**: [Your Role, e.g., Committee Member / IT Coordinator]
-- **Contact Email**: [your-verified-email@your-domain.com or yourname@gmail.com]
+- **Organization Representative**: Light Yip
+- **Role**: Director
+- **Contact Email**: hkpucb.alumni@gmail.com / alumni@hkpucb.com
 
 ## Verification
 This repository and the organization it represents are legitimate, non-commercial, and community-focused. We are committed to following AWS SES best practices and email sending standards.
