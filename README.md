@@ -1,5 +1,5 @@
 ## Our association
-My company is an alumni association (Principle De Unique Christian Band Alumni Association Limited) for a Christian band (called Principle De Unique Christian Band, 源理基督徒樂隊) in Hong Kong
+My company is an alumni association (Principle De Unique Christian Band Alumni Association Limited) for a Christian band (Principle De Unique Christian Band, 源理基督徒樂隊) in Hong Kong.
 
 ## Our Email Usage
 We request AWS SES production access exclusively for:
